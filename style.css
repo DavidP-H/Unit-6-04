@@ -1,0 +1,17 @@
+body {
+  background-color: #1d2333;
+}
+
+.text {
+  color: #e1e2e4;
+}
+
+#area_ans {
+  color: #e1e2e4;
+}
+
+#image {
+  float: right;
+  height: 50%;
+  width: 50%;
+}
